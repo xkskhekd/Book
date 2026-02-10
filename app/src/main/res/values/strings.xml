@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_overview">Book Overview</string>
+    <string name="with_cardview">Cardview</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="success">Success</string>
+</resources>
